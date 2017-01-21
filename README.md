@@ -5,3 +5,4 @@ changing again...
 =======
 changing but dont know why
 >>>>>>> develop
+git commit ? 
